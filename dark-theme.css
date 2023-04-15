@@ -92,7 +92,7 @@ footer:before{
     color: #fa6342;
 }
 .widget .twiter-feed > li > span i {
-    color: indigo;
+    color: #fa6442;
 }
 .left-menu > li a::before{
 	background: rgba(0,0,0,.3);
